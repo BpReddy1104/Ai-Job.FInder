@@ -12,6 +12,7 @@ A modern and intelligent job portal for freshers in the IT industry, powered by 
 
 ---
 
-![image](https://github.com/user-attachments/assets/c5fa9b32-3175-43be-b533-b677bd9796d5)
-# click the Link to for Demo Vedio
+![image](https://github.com/user-attachments/assets/6ff2f931-1998-4ebc-95f7-826f82b00dac)
+
+# click the Link for Demo Vedio
 https://drive.google.com/file/d/1d_Cg10rE3uMYuMwhPziOmez2BS989Q7o/view?usp=sharing
